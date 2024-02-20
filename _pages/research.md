@@ -13,7 +13,7 @@ My journey in the realm of causality is driven by a profound curiosity to unrave
 I am currently focusing on designing an end-to-end solution for the task of causal inference. This process begins by learning a causal model from available data, incorporating both observational and interventional inputs. Then, from the current knowledge about the underlying causal model, we try to get an estimate of the causal effect in the identification analysis stage. If an accurate estimation is not feasible, we design a limited number of interventions to be performed in the environment to refine our knowledge about the underlying causal system. By closing this loop, we aim to establish a comprehensive framework for causal inference tasks.
 
 <div style="text-align: center;">
-    <img src="/assets/images/Causal_Framework.PNG" alt="End-to-End Causal Inference Framework" width="800" height="600">
+    <img src="/assets/images/Causal_Framework.png" alt="End-to-End Causal Inference Framework" width="800" height="600">
     <br>
     <em>An End-to-End Causal Inference Framework</em>
 </div>
