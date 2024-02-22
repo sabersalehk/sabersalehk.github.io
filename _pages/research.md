@@ -20,7 +20,9 @@ I am currently focusing on designing an end-to-end solution for the task of caus
 
 **Stochastic Optimization**
 
-In the past few years, I have been working on developing efficient optimization algorithms for training large learning models with applications in  federated learning [9-12] and reinforcement learning [13-14]. Currently, I am mainly focused on the following directions:- Developing algorithms for hyper-parameter optimization: Very recently, we proposed MetaOptimize framework [15] which dynamically adjusts meta-parameters, particularly step sizes, during training. More specifically, MetaOptimize can wrap around any first-order optimization algorithm, tuning step sizes on the fly to minimize a specific form of regret that accounts for the long-term effect of step sizes on training, through a discounted sum of future losses.- Direct preference optimization in generative AI: I am working on designing optimization algorithms for directly aligning generative models from humanpreference data, eliminating the need for an explicit reward model in common multi-stage training methods.
+In the past few years, I have been working on developing efficient optimization algorithms for training large learning models with applications in  federated learning [9-12] and reinforcement learning [13-14]. Currently, I am mainly focused on the following directions:
+- Developing algorithms for hyper-parameter optimization: Very recently, we proposed MetaOptimize framework [15] which dynamically adjusts meta-parameters, particularly step sizes, during training. More specifically, MetaOptimize can wrap around any first-order optimization algorithm, tuning step sizes on the fly to minimize a specific form of regret that accounts for the long-term effect of step sizes on training, through a discounted sum of future losses.
+- Direct preference optimization in generative AI: I am working on designing optimization algorithms for directly aligning generative models from human preference data, eliminating the need for an explicit reward model in common multi-stage training methods.
 
 **References**
 <p style="font-size:smaller;">
