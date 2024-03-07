@@ -8,7 +8,7 @@ classes: wide
 
 **Causality**
 
-My journey in the realm of causality is driven by a profound curiosity to unravel the hidden mechanisms that govern complex systems. This journey is characterized by two intertwined paths: causal discovery/inference in the presence of latent variables [1-4] and designing experiments [5-8] to facilitate learning through interventions. These endeavors are not just academic exercises but are crucial bridges that connect theoretical understanding with real-world applications, thereby contributing to various scientific fields and societal advancements. 
+My research in causality is driven by a profound curiosity to unravel the hidden mechanisms that govern complex systems. This is characterized by two intertwined paths: causal discovery/inference in the presence of latent variables [1-4] and designing experiments [5-8] to facilitate learning through interventions. These endeavors are not just academic exercises but are crucial bridges that connect theoretical understanding with real-world applications, thereby contributing to various scientific fields and societal advancements. 
 
 I am currently focusing on designing an end-to-end solution for the task of causal inference. This process begins by learning a causal model from available data, incorporating both observational and interventional inputs. Then, from the current knowledge about the underlying causal model, we try to get an estimate of the causal effect in the identification analysis stage. If an accurate estimation is not feasible, we design a limited number of interventions to be performed in the environment to refine our knowledge about the underlying causal system. By closing this loop, we aim to establish a comprehensive framework for causal inference tasks.
 
