@@ -28,12 +28,12 @@ Systems (NIPS), 2017.</p>
 **Stochastic Optimization and Reinforcement Learning**
 
 <p>A. Sharifnassab, S. Salehkaleybar, and R. Sutton, <a href="https://arxiv.org/pdf/2402.02342.pdf"> MetaOptimize: A Framework for Optimizing Step Sizes and Other Meta-parameters</a>, preprint, 2024.</p>
+<p>S. Salehkaleybar, S. Khorasani, N. Kiyavash, N. He, and P. Thiran, <a href="https://arxiv.org/pdf/2205.08253.pdf"> Momentum-Based Policy Gradient with Second-Order Information</a>, Transactions on Machine Learning Research (TMLR), 2024.</p>
 <p>S. Khorasani, S. Salehkaleybar, N. Kiyavash, N. He, and M. Grossglauser, <a href="https://arxiv.org/pdf/2311.08914.pdf"> Efficiently Escaping Saddle Points for Non-Convex Policy Optimization</a>, preprint, 2023.</p>
 <p>S. Masiha, S. Salehkaleybar, N. He, N. Kiyavash, and P. Thiran, <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/46323351ebc2afa42b30a6122815cb95-Paper-Conference.pdf"> Stochastic Second-Order Methods Improve Best-Known Sample Complexity of SGD for Gradient-Dominated Functions</a>, 36th Conference on Neural Information Processing Systems (NeurIPS), 2022.</p>
-<p>S. Salehkaleybar, S. Khorasani, N. Kiyavash, N. He, and P. Thiran, <a href="https://arxiv.org/pdf/2205.08253.pdf"> Momentum-Based Policy Gradient with Second-Order Information</a>, preprint, 2022.</p>
+
 
 **Distributed Learning & Network Algorithms**
-<p>A. Sharifnassab, S. Salehkaleybar, and S. J. Golestani, <a>Order Optimal One-Shot Federated Learning for non-Convex Loss Functions</a>, IEEE Transactions on Information Theory, 2023.</p>
 <p>A. Shahbazinia, S. Salehkaleybar, M. Hashemi, <a>ParaLiNGAM: Parallel Causal Structure Learning for Linear non-Gaussian Acyclic Models</a>, Journal of Parallel and Distributed Computing, 2023.</p>
 <p>S. Salehkaleybar, A. Sharifnassab, and S. J. Golestani, <a href="https://arxiv.org/pdf/1905.04634v5.pdf">One-Shot Federated Learning:
 Theoretical Limits and Algorithms to Achieve Them</a>, Journal of Machine Learning Research (JMLR), 2021.</p>
