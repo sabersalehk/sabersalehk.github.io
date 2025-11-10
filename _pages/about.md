@@ -14,7 +14,14 @@ Saber Salehkaleybar is an assistant professor at the Leiden Institute of Advance
 <ul>
   {% for item in site.data.news limit:20 %}
     <li>
-      <p>{{ item.title }}</p>
+      <p>{{ item.title | markdownify }}</p>
+      {% if item.items %}
+        <ul>
+          {% for subitem in item.items %}
+            <li>{{ subitem | markdownify }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>

@@ -1,10 +1,33 @@
 # main links
-- title: <b>May 2025</b>, Our three papers were accepted at ICML 2025:
-- title: <b>Jan 2025</b>, Our paper <a> Multi-Domain Causal Discovery in Bijective Causal Models</a> was accepted in CLEAR 2025.
-- title: <b>May 2024</b>, Our paper <a href="https://openreview.net/pdf?id=C1iNBLIClt"> Causal Effect Identification in LiNGAM Models with Latent Confounders</a> was accepted in ICML 2024.
-- title: <b>Apr 2024</b>, I became an <a href="https://ellis.eu/"> ELLIS </a> member.
-- title: <b>Apr 2024</b>, Our paper <a href="https://arxiv.org/pdf/2205.08253.pdf"> Momentum-Based Policy Gradient with Second-Order Information</a> was accepted in TMLR.
-- title: <b>Jan 2024</b>, Our paper <a href="https://arxiv.org/pdf/2312.06091.pdf"> Learning Unknown Intervention Targets in Structural Causal Models from Heterogeneous Data</a> was accepted in AISTATS 2024.
-- title: <b>Dec 2023</b>, I am honored to be serving as the Workflow Chair for the <a href="https://www.auai.org/uai2024/"> UAI 2024 conference</a>.
-- title: <b>Dec 2023</b>, Our paper <a href="https://www.jmlr.org/papers/volume24/22-1425/22-1425.pdf"> A Unified Experiment Design Approach for Cyclic and Acyclic Causal Models</a> was accepted in JMLR. 
-- title: <b>Sep 2023</b>, Our paper <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/1f6100363156cced8633f4e89dd8ceb1-Paper-Conference.pdf"> A Cross-Moment Approach for Causal Effect Estimation</a> was accecpted as a <strong>spotlight paper</strong> in NeurIPS 2023.
+- title: "<b>Nov 2025</b>, Our paper <a>Learning Subgroups with Maximum Treatment Effects without Causal Heuristics</a> was accepted for an <strong>oral presentation</strong> at AAAI 2026."
+
+- title: "<b>Oct 2025</b>, I was selected as a <strong>Top Reviewer</strong> in NeurIPS 2025."
+
+- title: "<b>Sep 2025</b>, Our paper <a href='https://arxiv.org/pdf/2509.21423.pdf'>Near-Optimal Experiment Design in Linear non-Gaussian Cyclic Models</a> was accepted in NeurIPS 2025 as a <strong>spotlight paper</strong>."
+
+- title: "<b>May 2025</b>, Our three papers were accepted at ICML 2025:"
+  items:
+    - "<a href='https://arxiv.org/pdf/2402.02342.pdf'>MetaOptimize: A Framework for Optimizing Step Sizes and Other Meta-parameters</a>"
+    - "<a href='https://arxiv.org/pdf/2507.04373.pdf'>Hierarchical Reinforcement Learning with Targeted Causal Interventions</a>"
+    - "<a href='https://arxiv.org/pdf/2506.05202.pdf'>Causal Effect Identification in lvLiNGAM from Higher-Order Cumulants</a>"
+
+- title: "<b>May 2025</b>, Our two papers were accepted at UAI 2025:"
+  items:
+    - "<a href='https://arxiv.org/pdf/2506.11756.pdf'>Causal Effect Identification in Heterogeneous Environments from Higher-Order Moments</a>"
+    - "<a href='https://arxiv.org/pdf/2311.08914.pdf'>Efficiently Escaping Saddle Points for Policy Optimization</a>"
+
+- title: "<b>Jan 2025</b>, Our paper <a href='https://arxiv.org/pdf/2504.21261?'> Multi-Domain Causal Discovery in Bijective Causal Models</a> was accepted in CLEAR 2025."
+
+- title: "<b>May 2024</b>, Our paper <a href='https://openreview.net/pdf?id=C1iNBLIClt'>Causal Effect Identification in LiNGAM Models with Latent Confounders</a> was accepted in ICML 2024."
+
+- title: "<b>Apr 2024</b>, I became an <a href='https://ellis.eu/'>ELLIS</a> member."
+
+- title: "<b>Apr 2024</b>, Our paper <a href='https://arxiv.org/pdf/2205.08253.pdf'>Momentum-Based Policy Gradient with Second-Order Information</a> was accepted in TMLR."
+
+- title: "<b>Jan 2024</b>, Our paper <a href='https://arxiv.org/pdf/2312.06091.pdf'>Learning Unknown Intervention Targets in Structural Causal Models from Heterogeneous Data</a> was accepted in AISTATS 2024."
+
+- title: "<b>Dec 2023</b>, I am honored to be serving as the Workflow Chair for the <a href='https://www.auai.org/uai2024/'>UAI 2024 conference</a>."
+
+- title: "<b>Dec 2023</b>, Our paper <a href='https://www.jmlr.org/papers/volume24/22-1425/22-1425.pdf'>A Unified Experiment Design Approach for Cyclic and Acyclic Causal Models</a> was accepted in JMLR."
+
+- title: "<b>Sep 2023</b>, Our paper <a href='https://proceedings.neurips.cc/paper_files/paper/2023/file/1f6100363156cced8633f4e89dd8ceb1-Paper-Conference.pdf'>A Cross-Moment Approach for Causal Effect Estimation</a> was accepted as a <strong>spotlight paper</strong> in NeurIPS 2023."

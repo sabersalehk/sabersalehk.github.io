@@ -6,9 +6,9 @@ author_profile: true
 classes: wide
 ---
 
-I will teach two courses at Leiden University in the upcoming academic year:
-- Probability for Computer Scientists, Fall semester (2024-2025)
-- Causal Inference, Spring semester (2024-2025)
+I am currently teaching the following two courses at Leiden University:
+- Probability for Computer Scientists, Spring semesters
+- Causal Inference, Spring semesters
 
 In past few years, I taught the following courses several times in other institutes:
 - Introduction to Machine Learning
